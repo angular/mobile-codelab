@@ -1,0 +1,7 @@
+*.ngfactory.ts
+
+/dist
+/node_modules
+/tmp
+/typings
+
